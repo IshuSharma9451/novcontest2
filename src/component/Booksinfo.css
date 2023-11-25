@@ -1,0 +1,22 @@
+/* BookInfo.css */
+.bookinfo-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .bookinfo {
+    background-color: #333; /* Background color of the box */
+    color: white; /* Text color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+  }
+  
+  .bookinfo img {
+    max-width: 100%;
+    height: 300px;
+    width: 900px;
+    border-radius: 4px;
+  }
+  
